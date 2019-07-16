@@ -2,8 +2,5 @@ learn git
 first line change
 hello git add
 
-change file again
-and learn more 
-change tracks of files
-my stupid boss squeezed me!!!
+git push to remote origin
 
